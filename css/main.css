@@ -20,10 +20,17 @@ h1 {
 }
 h2 {
   font-size: 2.5rem;
+  margin-bottom: -10px;
 }
-h3 {
+.owner h3 {
   font-size: 2rem;
+  margin-bottom: -10px;
 }
+ h3 {
+  font-size: 2rem;
+  margin-bottom: 0;
+ }
+
 
 .skip-links{
   list-style: none;
